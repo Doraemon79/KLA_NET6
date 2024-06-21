@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KLA_NumberConverter_ServerSide.props" />
+</Project>

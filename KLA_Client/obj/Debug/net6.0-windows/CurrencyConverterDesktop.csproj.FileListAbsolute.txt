@@ -1,0 +1,32 @@
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\bin\Debug\net6.0-windows\CurrencyConverterDesktop.exe
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\bin\Debug\net6.0-windows\CurrencyConverterDesktop.deps.json
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\bin\Debug\net6.0-windows\CurrencyConverterDesktop.runtimeconfig.json
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\bin\Debug\net6.0-windows\CurrencyConverterDesktop.dll
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\bin\Debug\net6.0-windows\CurrencyConverterDesktop.pdb
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.Form1.resources
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.csproj.GenerateResource.cache
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.AssemblyInfoInputs.cache
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.AssemblyInfo.cs
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.dll
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\obj\Debug\net6.0-windows\refint\CurrencyConverterDesktop.dll
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.pdb
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.genruntimeconfig.cache
+D:\PROJECTS\Ignazio Leotta\CurrencyConverter\CurrencyConverterDesktop\obj\Debug\net6.0-windows\ref\CurrencyConverterDesktop.dll
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\bin\Debug\net6.0-windows\CurrencyConverterDesktop.exe
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\bin\Debug\net6.0-windows\CurrencyConverterDesktop.deps.json
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\bin\Debug\net6.0-windows\CurrencyConverterDesktop.runtimeconfig.json
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\bin\Debug\net6.0-windows\CurrencyConverterDesktop.dll
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\bin\Debug\net6.0-windows\CurrencyConverterDesktop.pdb
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.Form1.resources
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.csproj.GenerateResource.cache
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.AssemblyInfoInputs.cache
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.AssemblyInfo.cs
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.csproj.CoreCompileInputs.cache
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.dll
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\obj\Debug\net6.0-windows\refint\CurrencyConverterDesktop.dll
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.pdb
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\obj\Debug\net6.0-windows\CurrencyConverterDesktop.genruntimeconfig.cache
+C:\Users\ignle\OneDrive\Desktop\Vladimir\CurrencyConverterDesktop\obj\Debug\net6.0-windows\ref\CurrencyConverterDesktop.dll
